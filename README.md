@@ -97,5 +97,29 @@ flutter run
 ```
 
 ## 5. Screenshot Aplikasi
-![1](docs/1.png)
-![2](docs/2.png)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/1.png" alt="Cuaca Hari Ini"><br>
+      </td>
+      <td align="center">
+        <img src="docs/2.png" alt="Histori dan Favorit"><br>
+      </td>
+      <td align="center">
+        <img src="docs/3.png" alt="Cuaca 7 Hari"><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="docs/4.png" alt="List Cari Lokasi"><br>
+      </td>
+      <td align="center">
+        <img src="docs/5.png" alt="Tambah Favorit Main"><br>
+      </td>
+      <td align="center">
+        <img src="docs/6.png" alt="Kosongkan Histori Favorit"><br>
+      </td>
+    </tr>
+  </table>
+</p>
